@@ -1,0 +1,11 @@
+<title>Animal Predict App</title>
+{% if washer %}
+    <h1>これは {{ washer }} </h1>
+    <div>
+        <img src = "{{ image }}">
+    </div>
+    <a href="./">トップへ戻る</a>
+{% else %}
+    <a href="./">トップへ戻る</a>
+{% endif %}
+

@@ -1,0 +1,20 @@
+(undo-tree-save-format-version . 1)
+"18bf2fcd7d81be0f8ff43485c993b200d36063d4"
+[nil nil nil nil (25786 32389 404684 0) 0 nil]
+([nil nil ((1 . 137) (t . -1)) nil (25786 32389 404683 0) 0 nil])
+([nil nil ((137 . 139)) nil (25786 32389 404682 0) 0 nil])
+([nil nil (("x" . -137) (undo-tree-id44 . -1) (undo-tree-id45 . -1) ("=" . -138) (undo-tree-id46 . -1) (undo-tree-id47 . -1) 139) nil (25786 32389 404681 0) 0 nil])
+([nil nil (("2" . -7) (undo-tree-id38 . -1) (undo-tree-id39 . -1) ("." . -8) (undo-tree-id40 . -1) (undo-tree-id41 . -1) ("3" . -9) (undo-tree-id42 . -1) (undo-tree-id43 . -1) 10) nil (25786 32389 404677 0) 0 nil])
+([nil nil ((7 . 12)) nil (25786 32389 404672 0) 0 nil])
+([nil nil (("3" . -24) (undo-tree-id37 . -1) 25) nil (25786 32389 404672 0) 0 nil])
+([nil nil ((24 . 25)) nil (25786 32389 404670 0) 0 nil])
+([nil nil (("0" . -51) (undo-tree-id34 . -1) ("." . -52) (undo-tree-id35 . -1) ("2" . -53) (undo-tree-id36 . -1) 54) nil (25786 32389 404669 0) 0 nil])
+([nil nil ((51 . 54)) nil (25786 32389 404667 0) 0 nil])
+([nil nil (("0" . -66) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) ("." . -67) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (undo-tree-id24 . -1) ("1" . -68) (undo-tree-id25 . -1) (undo-tree-id26 . -1) (undo-tree-id27 . -1) ("." . -69) (undo-tree-id28 . -1) (undo-tree-id29 . -1) (undo-tree-id30 . -1) ("0" . -70) (undo-tree-id31 . -1) (undo-tree-id32 . -1) (undo-tree-id33 . -1) 71) nil (25786 32389 404665 0) 0 nil])
+([nil nil ((66 . 71)) nil (25786 32389 404654 0) 0 nil])
+([nil nil (("1" . -122) (undo-tree-id18 . -1) 123) nil (25786 32389 404653 0) 0 nil])
+([nil nil ((122 . 123)) nil (25786 32389 404652 0) 0 nil])
+([nil nil (("1" . -136) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) ("." . -137) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) ("2" . -138) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) 139) nil (25786 32389 404649 0) 0 nil])
+([nil nil ((136 . 139)) nil (25786 32389 404629 0) 0 nil])
+([nil current ((139 . 140)) nil (25786 32389 404623 0) 0 nil])
+nil
