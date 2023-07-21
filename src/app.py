@@ -13,7 +13,7 @@ def predict(img):
     # ネットワークの準備
     net = AutoEncoder().cpu().eval()
     # 学習済みモデルの重みを読み込み
-    net.load_state_dict(torch.load('./src/washer_cnn.pt', map_location=torch.device('cpu')))
+    net.load_state_dict(torch.load('./washer_cnn.pt', map_location=torch.device('cpu')))
     # データの前処理
     img = transform(img)
     img = img[0:3]
