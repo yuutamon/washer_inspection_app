@@ -36,9 +36,9 @@ def predict(img):
 # AEの差分の大きさでOK/NGを判定する
 def getResult(diff):
     if diff < 200.0:
-        return 'OKです😁'
+        return 'OKです'
     elif diff >= 200.0:
-        return 'だめです😭'
+        return 'だめです'
 
 # Flask のインスタンス化
 app = Flask(__name__)

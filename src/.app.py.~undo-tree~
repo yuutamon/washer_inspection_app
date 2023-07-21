@@ -1,0 +1,6 @@
+(undo-tree-save-format-version . 1)
+"4cf07e1b1950d692cc348aeb78913d65ef512244"
+[nil nil nil nil (25786 42321 614950 0) 0 nil]
+([nil nil ((#("😁" 0 1 (fontified t face font-lock-string-face)) . -1055) (undo-tree-id1 . -1) 1056 (t 25786 39355 591068 216000)) nil (25786 42321 614948 0) 0 nil])
+([nil current ((#("😭" 0 1 (fontified t face font-lock-string-face)) . -1101) (undo-tree-id0 . -1) 1102) nil (25786 42321 614944 0) 0 nil])
+nil
